@@ -1,24 +1,27 @@
-import logo from './logo.svg';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Top from './routes/top';
+import About from './routes/about';
+import Contact from './routes/contact';
+import Member from './routes/member';
+import Join from './routes/join';
+import NotFound from './routes/404';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path={`/`} element={<Top />} />
+        <Route path={`/about/`} element={<About />} />
+        <Route path={`/contact/`} element={<Contact />} />
+        <Route path={`/member/`} element={<Member />} />
+        <Route path={`/join/`} element={<Join />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+    </BrowserRouter>
+
   );
 }
 
