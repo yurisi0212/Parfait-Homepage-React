@@ -10,15 +10,16 @@ import NotFound from './routes/404';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
+  const sub = "/new_Parfait"
   return (
     <BrowserRouter>
       <Routes>
-        <Route path={`/`} element={<Top />} />
-        <Route path={`/about/`} element={<About />} />
-        <Route path={`/contact/`} element={<Contact />} />
-        <Route path={`/member/`} element={<Member />} />
-        <Route path={`/join/`} element={<Join />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path={`${sub}/`} element={<Top />} />
+        <Route path={`${sub}/about/`} element={<About />} />
+        <Route path={`${sub}/contact/`} element={<Contact />} />
+        <Route path={`${sub}/member/`} element={<Member />} />
+        <Route path={`${sub}/join/`} element={<Join />} />
+        <Route path={`${sub}/*`} element={<NotFound />} />
       </Routes>
     </BrowserRouter>
 
