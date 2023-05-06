@@ -15,7 +15,7 @@ function Member() {
       <Particle />
       <Container className='text-center bg-light p-5' style={{ "z-index": 100 }}>
         <div className='title'>
-          <h2><b>メンバー一覧(一部)</b></h2>
+          <h2><b>メンバー一覧(本部)</b></h2>
         </div>
         <div className='admin'>
           <h3 className='mt-4'><b>運営</b></h3>
@@ -252,6 +252,7 @@ function Member() {
               </Card>
             </Col>
           </Row>
+          <h3>他数名</h3>
         </div>
       </Container>
       <Footer />
