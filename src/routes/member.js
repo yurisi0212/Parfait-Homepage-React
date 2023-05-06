@@ -103,7 +103,7 @@ function Member() {
                     主にやっているゲーム<br />
                     ・Rust<br />
                     ・Minecraft<br />
-                    ・RocketReague<br />
+                    ・RocketLeague<br />
                     ・他たくさんのゲーム
                   </Card.Text>
                   <a href="https://twitter.com/Mouse_Spiny?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Mouse_Spiny</a>
@@ -178,6 +178,74 @@ function Member() {
                     ・Valorant<br />
                     ・Minecraft<br />
                     ・GTAV<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/mia.png" />
+                <Card.Body>
+                  <Card.Title>みあ</Card.Title>
+                  <Card.Text>
+                    最強の聞き専<br />
+                    fpsフィジカル最強<br />
+                    主にやっているゲーム<br />
+                    ・Valorant(イモータル)<br />
+                    ・ApexLegends(マスター)<br />
+                    ・Minecraft<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/rinse.png" />
+                <Card.Body>
+                  <Card.Title>りんす</Card.Title>
+                  <Card.Text>
+                    みあちゃんの使い魔<br />
+                    マウス没収常習犯<br />
+                    主にやっているゲーム<br />
+                    ・Valorant<br />
+                    ・ApexLegends(マスター)<br />
+                    ・Minecraft<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/fireryou.png" />
+                <Card.Body>
+                  <Card.Title>ふぁいありょう</Card.Title>
+                  <Card.Text>
+                    何でもゴミゴミ言う。<br />
+                    陰キャいじりされるのが好き<br />
+                    主にやっているゲーム<br />
+                    ・Valorant<br />
+                    ・MonsterHunterWorld<br />
+                    ・原神<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/takumatuti.png" />
+                <Card.Body>
+                  <Card.Title>たくまっち</Card.Title>
+                  <Card.Text>
+                    ライト勢だがどんなゲームでも楽しくやる<br />
+                    絵のセンスは人一倍<br />
+                    主にやっているゲーム<br />
+                    ・Minecraft<br />
+                    ・Craftpia<br />
+                    ・Among us<br />
                     ・他たくさんのゲーム
                   </Card.Text>
                 </Card.Body>
