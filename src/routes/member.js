@@ -58,7 +58,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/raiden.png" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/raiden.jpg" />
                 <Card.Body>
                   <Card.Title>raiden</Card.Title>
                   <Card.Text>
