@@ -1,4 +1,3 @@
-import Container from 'react-bootstrap/Container';
 import Navigation from '../navigation'
 import { Helmet } from "react-helmet";
 
