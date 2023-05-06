@@ -83,7 +83,7 @@ function Member() {
                     主にやっているゲーム<br />
                     ・Rainbow Six:Siege<br />
                     ・Minecraft<br />
-                    ・RocketReague<br />
+                    ・Rocket League<br />
                     ・他たくさんのゲーム
                   </Card.Text>
                   <a href="https://twitter.com/Villagermeyason?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Villagermeyason</a>
