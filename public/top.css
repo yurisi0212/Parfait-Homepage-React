@@ -10,6 +10,10 @@ body {
     overflow: hidden
 }
 
+#tsparticles{
+    opacity: 0;
+}
+
 h3 {
     margin: 0;
     font-family: 'Montserrat', sans-serif;

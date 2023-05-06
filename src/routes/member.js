@@ -1,6 +1,5 @@
 import Navigation from '../navigation'
 import Container from 'react-bootstrap/Container';
-import Particle from './components/particle';
 import Card from 'react-bootstrap/Card';
 import { Helmet } from "react-helmet";
 import Row from 'react-bootstrap/Row';
@@ -12,7 +11,6 @@ function Member() {
     <div>
       <Helmet><script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></Helmet>
       <Navigation />
-      <Particle />
       <Container className='text-center bg-light p-5' style={{ "z-index": 100 }}>
         <div className='title'>
           <h2><b>メンバー一覧(本部)</b></h2>
