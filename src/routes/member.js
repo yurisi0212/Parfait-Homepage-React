@@ -22,7 +22,7 @@ function Member() {
           <Row className='text-center'>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/yurisi.png" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/yurisi.png" />
                 <Card.Body>
                   <Card.Title>yurisi</Card.Title>
                   <Card.Text>
@@ -40,7 +40,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/tatchan.jpg" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/tatchan.jpg" />
                 <Card.Body>
                   <Card.Title>tatchan</Card.Title>
                   <Card.Text>
@@ -58,7 +58,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/raiden.png" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/raiden.png" />
                 <Card.Body>
                   <Card.Title>raiden</Card.Title>
                   <Card.Text>
@@ -76,7 +76,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/meyason.jpg" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/meyason.jpg" />
                 <Card.Body>
                   <Card.Title>meyason</Card.Title>
                   <Card.Text>
@@ -94,7 +94,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/spiny.jpg" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/spiny.jpg" />
                 <Card.Body>
                   <Card.Title>SpinyMouse</Card.Title>
                   <Card.Text>
@@ -117,7 +117,7 @@ function Member() {
           <Row className='text-center'>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/tsuyoshikusa.jpg" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/tsuyoshikusa.jpg" />
                 <Card.Body>
                   <Card.Title>つよっしくさ</Card.Title>
                   <Card.Text>
@@ -134,7 +134,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/yoshit.jpg" />
+                <Card.Img variant="top" src="/new_Parfait/images/member/yoshit.jpg" />
                 <Card.Body>
                   <Card.Title>yoshit</Card.Title>
                   <Card.Text>
@@ -144,6 +144,40 @@ function Member() {
                     ・Valorant<br />
                     ・Rust<br />
                     ・Biohazardシリーズ(RTA)<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/alu.png" />
+                <Card.Body>
+                  <Card.Title>Alu</Card.Title>
+                  <Card.Text>
+                    酒カス<br />
+                    気分じゃないときは適当な理由つけてゲーム断ってきます<br />
+                    主にやっているゲーム<br />
+                    ・Valorant<br />
+                    ・Rainbow Six:Siege<br />
+                    ・The Forest<br />
+                    ・他たくさんのゲーム
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col className='d-flex justify-content-center my-3'>
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/new_Parfait/images/member/apatetic.png" />
+                <Card.Body>
+                  <Card.Title>あぱ</Card.Title>
+                  <Card.Text>
+                    元ガンギマリ社畜<br />
+                    転職してからとても楽しそうで良かった<br />
+                    主にやっているゲーム<br />
+                    ・Valorant<br />
+                    ・Minecraft<br />
+                    ・GTAV<br />
                     ・他たくさんのゲーム
                   </Card.Text>
                 </Card.Body>
