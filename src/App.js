@@ -10,7 +10,7 @@ import NotFound from './routes/404';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
-  const sub = "/new_Parfait"
+  const sub = "/Parfait"
   return (
     <BrowserRouter>
       <Routes>

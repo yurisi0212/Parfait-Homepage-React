@@ -18,7 +18,7 @@ function Particle() {
                 "shape": {
                     "type": "image",
                     "image": {
-                        "src": "https://yurisi.space/new_Parfait/images/sweets_fruit_pafe.png",
+                        "src": "https://yurisi.space/Parfait/images/sweets_fruit_pafe.png",
                         "width": 200,
                         "height": 200
                     }

@@ -7,7 +7,7 @@ function Top() {
             <Navigation />
             <div id='index' className='text-center'>
                 <Helmet>
-                    <link rel="stylesheet" href="/new_Parfait/top.css" />
+                    <link rel="stylesheet" href="/Parfait/top.css" />
                 </Helmet>
                 <div className='top-container'>
                     <div>

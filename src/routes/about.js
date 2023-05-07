@@ -35,31 +35,31 @@ function About() {
           <h4>主に遊んでいるゲーム等</h4>
           <Slider {...settings}>
             <div>
-              <img src="/new_Parfait/images/Valorant.jpg" className='w-100' alt='valorant' />
+              <img src="/Parfait/images/Valorant.jpg" className='w-100' alt='valorant' />
               <h5>Valorant</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/minecraft.png" className='w-100' alt='minecraft' />
+              <img src="/Parfait/images/minecraft.png" className='w-100' alt='minecraft' />
               <h5>Minecraft</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/monster_hunter.jpg" className='w-100' alt='monster_hunter'/>
+              <img src="/Parfait/images/monster_hunter.jpg" className='w-100' alt='monster_hunter'/>
               <h5>MonsterHunterシリーズ</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/oekaki.jpg" className='w-100' alt='oekaki no mori'/>
+              <img src="/Parfait/images/oekaki.jpg" className='w-100' alt='oekaki no mori'/>
               <h5>お絵かきの森</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/Siege.png" className='w-100' alt='rainbow six siege'/>
+              <img src="/Parfait/images/Siege.png" className='w-100' alt='rainbow six siege'/>
               <h5>Rainbow Six:Siege</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/GTA.png" className='w-100' alt='gtav'/>
+              <img src="/Parfait/images/GTA.png" className='w-100' alt='gtav'/>
               <h5>GTAV</h5>
             </div>
             <div>
-              <img src="/new_Parfait/images/Apex.png" className='w-100' alt='apex legends'/>
+              <img src="/Parfait/images/Apex.png" className='w-100' alt='apex legends'/>
               <h5>Apex Legends</h5>
             </div>
           </Slider>

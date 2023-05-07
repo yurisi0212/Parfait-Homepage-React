@@ -5,7 +5,7 @@ import { LinkContainer } from 'react-router-bootstrap'
 
 
 function Navigation() {
-    const sub = "/new_Parfait";
+    const sub = "/Parfait";
     return (
         <div className="App">
             <header className="App-header mb-5">

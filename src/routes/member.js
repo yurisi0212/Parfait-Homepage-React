@@ -20,7 +20,7 @@ function Member() {
           <Row className='text-center'>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/yurisi.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/yurisi.png" />
                 <Card.Body>
                   <Card.Title>yurisi</Card.Title>
                   <Card.Text>
@@ -38,7 +38,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/tatchan.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/tatchan.jpg" />
                 <Card.Body>
                   <Card.Title>tatchan</Card.Title>
                   <Card.Text>
@@ -56,7 +56,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/raiden.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/raiden.jpg" />
                 <Card.Body>
                   <Card.Title>raiden</Card.Title>
                   <Card.Text>
@@ -74,7 +74,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/meyason.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/meyason.jpg" />
                 <Card.Body>
                   <Card.Title>meyason</Card.Title>
                   <Card.Text>
@@ -92,7 +92,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/spiny.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/spiny.jpg" />
                 <Card.Body>
                   <Card.Title>SpinyMouse</Card.Title>
                   <Card.Text>
@@ -115,7 +115,7 @@ function Member() {
           <Row className='text-center'>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/tsuyoshikusa.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/tsuyoshikusa.jpg" />
                 <Card.Body>
                   <Card.Title>つよっしくさ</Card.Title>
                   <Card.Text>
@@ -132,7 +132,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/yoshit.jpg" />
+                <Card.Img variant="top" src="/Parfait/images/member/yoshit.jpg" />
                 <Card.Body>
                   <Card.Title>yoshit</Card.Title>
                   <Card.Text>
@@ -149,7 +149,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/alu.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/alu.png" />
                 <Card.Body>
                   <Card.Title>Alu</Card.Title>
                   <Card.Text>
@@ -166,7 +166,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/apatetic.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/apatetic.png" />
                 <Card.Body>
                   <Card.Title>あぱ</Card.Title>
                   <Card.Text>
@@ -183,7 +183,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/mia.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/mia.png" />
                 <Card.Body>
                   <Card.Title>みあ</Card.Title>
                   <Card.Text>
@@ -200,7 +200,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/rinse.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/rinse.png" />
                 <Card.Body>
                   <Card.Title>りんす</Card.Title>
                   <Card.Text>
@@ -217,7 +217,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/fireryou.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/fireryou.png" />
                 <Card.Body>
                   <Card.Title>ふぁいありょう</Card.Title>
                   <Card.Text>
@@ -234,7 +234,7 @@ function Member() {
             </Col>
             <Col className='d-flex justify-content-center my-3'>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src="/new_Parfait/images/member/takumatuti.png" />
+                <Card.Img variant="top" src="/Parfait/images/member/takumatuti.png" />
                 <Card.Body>
                   <Card.Title>たくまっち</Card.Title>
                   <Card.Text>
